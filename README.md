@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1> 🌟 Welcome to Neverland! 🌟</h1>
 
-<!--
-**Peter-Pan-The-magical-man/Peter-Pan-The-magical-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>"All you need is faith, trust, and a little bit of pixie dust."</p>
 
-Here are some ideas to get you started:
+Hey there, Lost Boy (or Girl)! Welcome to my GitHub Page where coding adventures never grow old!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>💖 What I Love:</h1>
+
+<p>Sprinkling magic into code</p>
+
+<p>Chasing stars (a.k.a. learning new tech)</p>
+
+<p>Battling Captain Bugs with the power of debugging </p>
+
+<h1>🛡️ Tech Treasure Map </h1>
+
+<p> Here's what I'm currently using on my adventures: </p>
+
+✨ Python
+✨ Golang
