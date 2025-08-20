@@ -17,4 +17,6 @@ Hey there, Lost Boy (or Girl)! Welcome to my GitHub Page where coding adventures
 <p> Here's what I'm currently using on my adventures: </p>
 
 ✨ Python <br>
-✨ Golang
+✨ Golang <br>
+✨ C++ <br>
+✨ Lua
